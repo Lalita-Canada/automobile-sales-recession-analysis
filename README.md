@@ -19,3 +19,13 @@ This is the final project for IBM's Data Visualization with Python course.
   during recessions, with most of it going to Small and Medium Family Cars.
 - **Strong seasonality:** December has the highest sales, with smaller peaks in
   March and April.
+## Interactive Dashboard (Part 2)
+Built with Plotly Dash, with dropdowns to switch between
+Recession Period Statistics and Yearly Statistics.
+
+![Recession Dashboard](Dashboard_recession.png)
+![Yearly Dashboard](Dashboard_yearly.png)
+
+## Files
+- `automobile_sales_analysis.ipynb`: Part 1 visualizations
+- `Dashboard_app.py`: Part 2 Dash app
