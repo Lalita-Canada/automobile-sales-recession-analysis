@@ -1,4 +1,4 @@
-# Automobile Sales Analysis During Recessions
+#    - `automobile-sales-analysis-during-recessions.ipynb`: Part 1 visualizations
 
 ## Overview
 This project analyzes historical automobile sales data (1980–2023) to understand
