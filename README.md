@@ -1,4 +1,4 @@
-#    - `automobile-sales-analysis-during-recessions.ipynb`: Part 1 visualizations
+# Automobile Sales Analysis During Recessions
 
 ## Overview
 This project analyzes historical automobile sales data (1980–2023) to understand
@@ -19,6 +19,7 @@ This is the final project for IBM's Data Visualization with Python course.
   during recessions, with most of it going to Small and Medium Family Cars.
 - **Strong seasonality:** December has the highest sales, with smaller peaks in
   March and April.
+
 ## Interactive Dashboard (Part 2)
 Built with Plotly Dash, with dropdowns to switch between
 Recession Period Statistics and Yearly Statistics.
@@ -27,5 +28,8 @@ Recession Period Statistics and Yearly Statistics.
 ![Yearly Dashboard](Dashboard_yearly.png)
 
 ## Files
-- `automobile_sales_analysis.ipynb`: Part 1 visualizations
+- `automobile-sales-analysis-during-recessions.ipynb`: Part 1 visualizations
 - `Dashboard_app.py`: Part 2 Dash app
+
+## Author
+Lalita Lalita: [LinkedIn](https://www.linkedin.com/in/lalita-lalita-1778672a3) | [Kaggle](https://www.kaggle.com/lalitacanada)
